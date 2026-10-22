@@ -2,7 +2,7 @@
 
 A shared whiteboard. Open a room, send the link, and everyone in it draws on the same canvas at the same time.
 
-**Live:** https://scrawl-wymi.onrender.com (the free server sleeps when idle, so the first load can take up to a minute)
+**Live:** https://scrawl-nyhd.onrender.com (the free server sleeps when idle, so the first load can take up to a minute)
 
 Pens, lines, rectangles, ellipses, text, live cursors, and undo that only touches your own changes. Boards are saved, so a room is still there when you come back.
 
